@@ -337,5 +337,4 @@ module.exports = {
             "error",
             "never"
         ]
-    }
 };
