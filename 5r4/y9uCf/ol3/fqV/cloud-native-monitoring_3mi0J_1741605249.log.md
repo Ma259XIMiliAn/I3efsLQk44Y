@@ -57,7 +57,6 @@ implementation of a much-needed new feature. We'd love to have
 your contributions.
 
 We use the usual GitHub pull-request flow, which may be familiar to
-you if you've contributed to other projects on GitHub. For the mechanics,
 view [this guide](https://help.github.com/articles/using-pull-requests/).
 
 If your change will be a significant amount of work
