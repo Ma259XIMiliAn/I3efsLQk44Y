@@ -40,7 +40,6 @@ insert_final_newline = false
 # The following line results in warning/error:
 #
 # { /// <summary>
-#
 # Does reverting to Allman
 [vw_clr/*.{cpp,h}]
 end_of_line = crlf
